@@ -4,11 +4,40 @@ Welcome to our C# learning journey! Here we are [@kamrul](https://github.com/Kam
  and [@azizul](https://github.com/azizulever/) Learning C# to enhance our skills. This README will serve as your guide to learning C# with a structured index of topics. As you work through each topic, you can checkmark it to track your progress.
 
 ## C# Learning Index
-
+✅️ **Naimur** 🔵 **Azizul** 🔵 **Kamrul** 🔵 **Pavel**
 ### 1. **Introduction to C#**
    - [ ] What is C#?
    - [ ] History of C#
    - [ ] .NET Framework and .NET Core
+
+<details>
+
+<summary>STUDY REPORT</summary>
+
+##### Naimur
+```
+   C# is a programming language that runs on .NET framework.
+   It was designed by Anders Hejlsberg from Microsoft in 2000.
+   .NET framework was closed source, .NET Core is Open source.
+```
+
+##### Azizul
+```
+   # todo
+```
+
+##### Kamrul
+```
+   # todo
+```
+
+##### Pavel
+```
+   # todo
+```
+
+</details>
+
 
 ### 2. **Setting Up the Development Environment**
    - [ ] Installing Visual Studio or Visual Studio Code
