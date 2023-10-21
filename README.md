@@ -1,6 +1,7 @@
 # Learning C# - README
 
-Welcome to our C# learning journey! Here we are [@kamrul](https://github.com/Kamrul-Hasan-2/), [@naimur](https://github.com/naimurhasan/) and [@azizul](https://github.com/azizulever/) Learning C# to enhance our skills. This README will serve as your guide to learning C# with a structured index of topics. As you work through each topic, you can checkmark it to track your progress.
+Welcome to our C# learning journey! Here we are [@kamrul](https://github.com/Kamrul-Hasan-2/), [@naimur](https://github.com/naimurhasan/), [@pavel](https://github.com/pavelaha019)
+ and [@azizul](https://github.com/azizulever/) Learning C# to enhance our skills. This README will serve as your guide to learning C# with a structured index of topics. As you work through each topic, you can checkmark it to track your progress.
 
 ## C# Learning Index
 
