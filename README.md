@@ -40,9 +40,21 @@ Welcome to our C# learning journey! Here we are [@kamrul](https://github.com/Kam
 
 
 ### 2. **Setting Up the Development Environment**
+✅️ **Naimur** 🔵 **Azizul** 🔵 **Kamrul** 🔵 **Pavel**
    - [ ] Installing Visual Studio or Visual Studio Code
    - [ ] Creating your first C# project
    - [ ] Writing and running a basic C# program
+
+
+<details>
+
+<summary>STUDY REPORT</summary>
+
+##### Naimur
+```
+   brew install --cask dotnet-sdk
+```
+</details>
 
 ### 3. **C# Basics**
    - [ ] Variables and Data Types
