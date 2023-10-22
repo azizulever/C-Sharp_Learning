@@ -68,6 +68,9 @@ NET is a free, cross-platform, open source developer platform for building many 
 ##### Azizul
 ```
    - Visual Studio Code Installed.
+   - Created my first C# project
+   - Written and ran a basic C# program 👇
+     Console.WriteLine("Hello from visul stdio code!");
 
 ```
 
