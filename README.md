@@ -48,7 +48,7 @@ NET is a free, cross-platform, open source developer platform for building many 
 
 
 ### 2. **Setting Up the Development Environment**
-✅️ **Naimur** 🔵 **Azizul** ✅️ **Kamrul** 🔵 **Pavel**
+✅️ **Naimur** 🔵 **Azizul** ✅️ **Kamrul** ✅️ **Pavel**
    - [ ] Installing Visual Studio or Visual Studio Code
    - [ ] Creating your first C# project
    - [ ] Writing and running a basic C# program
@@ -74,6 +74,19 @@ NET is a free, cross-platform, open source developer platform for building many 
        static void Main(string[] args)
        {
            System.Console.WriteLine("Hello C#!");
+       }
+   }
+```
+### Pavel 
+```
+C# Environment Done
+
+First code of C#
+ class HelloCSharp
+   {
+       static void Main(string[] args)
+       {
+           System.Console.WriteLine("Welcome to C#");
        }
    }
 ```
