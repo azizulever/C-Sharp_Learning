@@ -44,7 +44,7 @@ Welcome to our C# learning journey! Here we are [@kamrul](https://github.com/Kam
 
 
 ### 2. **Setting Up the Development Environment**
-✅️ **Naimur** 🔵 **Azizul** 🔵 **Kamrul** 🔵 **Pavel**
+✅️ **Naimur** 🔵 **Azizul** ✅️ **Kamrul** 🔵 **Pavel**
    - [ ] Installing Visual Studio or Visual Studio Code
    - [ ] Creating your first C# project
    - [ ] Writing and running a basic C# program
@@ -57,6 +57,15 @@ Welcome to our C# learning journey! Here we are [@kamrul](https://github.com/Kam
 ##### Naimur
 ```
    brew install --cask dotnet-sdk
+```
+</details>
+
+##### Kamrul
+```
+  Dotnet Core SDK Download Link  -  https://bit.ly/dotnetcoresdk_techdecode
+
+  -----first c# project----
+  Console.WriteLine("Hello , C#");
 ```
 </details>
 
