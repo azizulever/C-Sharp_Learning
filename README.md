@@ -65,7 +65,14 @@ Welcome to our C# learning journey! Here we are [@kamrul](https://github.com/Kam
   Dotnet Core SDK Download Link  -  https://bit.ly/dotnetcoresdk_techdecode
 
   -----first c# project----
-  Console.WriteLine("Hello , C#");
+
+   class HelloCSharp
+   {
+       static void Main(string[] args)
+       {
+           System.Console.WriteLine("Hello C#!");
+       }
+   }
 ```
 </details>
 
