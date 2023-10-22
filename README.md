@@ -58,7 +58,6 @@ Welcome to our C# learning journey! Here we are [@kamrul](https://github.com/Kam
 ```
    brew install --cask dotnet-sdk
 ```
-</details>
 
 ##### Kamrul
 ```
