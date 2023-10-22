@@ -4,7 +4,7 @@ Welcome to our C# learning journey! Here we are [@kamrul](https://github.com/Kam
  and [@azizul](https://github.com/azizulever/) Learning C# to enhance our skills. This README will serve as your guide to learning C# with a structured index of topics. As you work through each topic, you can checkmark it to track your progress.
 
 ## C# Learning Index
-✅️ **Naimur** 🔵 **Azizul** 🔵 **Kamrul** 🔵 **Pavel**
+✅️ **Naimur** 🔵 **Azizul** ✅ **Kamrul** 🔵 **Pavel**
 ### 1. **Introduction to C#**
    - [ ] What is C#?
    - [ ] History of C#
@@ -28,7 +28,11 @@ Welcome to our C# learning journey! Here we are [@kamrul](https://github.com/Kam
 
 ##### Kamrul
 ```
-   # todo
+    It is an object-oriented programming language created
+    by Microsoft that runs on the .NET Framework.
+    Designed by Anders Hejlsberg from Microsoft in 2000 and
+    was later approved as an international standard by Ecma
+    (ECMA-334) in 2002. 
 ```
 
 ##### Pavel
