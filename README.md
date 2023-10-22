@@ -37,7 +37,11 @@ Welcome to our C# learning journey! Here we are [@kamrul](https://github.com/Kam
 
 ##### Pavel
 ```
-   # todo
+It is an object-oriented programming language created by Microsoft that runs on the .NET Framework.
+C# has roots from the C family, and the language is close to other popular languages like C++ and Java.
+The first version was released in year 2002. The latest version, C# 11, was released in November 2022.
+NET is a free, cross-platform, open source developer platform for building many different types of applications.
+
 ```
 
 </details>
