@@ -4,7 +4,7 @@ Welcome to our C# learning journey! Here we are [@kamrul](https://github.com/Kam
  and [@azizul](https://github.com/azizulever/) Learning C# to enhance our skills. This README will serve as your guide to learning C# with a structured index of topics. As you work through each topic, you can checkmark it to track your progress.
 
 ## C# Learning Index
-✅️ **Naimur** 🔵 **Azizul** ✅ **Kamrul** ✅ **Pavel**
+✅️ **Naimur** ✅ **Azizul** ✅ **Kamrul** ✅ **Pavel**
 ### 1. **Introduction to C#**
    - [ ] What is C#?
    - [ ] History of C#
@@ -23,7 +23,9 @@ Welcome to our C# learning journey! Here we are [@kamrul](https://github.com/Kam
 
 ##### Azizul
 ```
-   # todo
+   - A programming language compatible with OOP and .NET framework.
+   - Designed by Anders Hejlsberg from Microsoft in 2000.
+   - .NET Framework is Windows-only; .NET Core is cross-platform.
 ```
 
 ##### Kamrul
@@ -61,6 +63,12 @@ NET is a free, cross-platform, open source developer platform for building many 
 ##### Naimur
 ```
    brew install --cask dotnet-sdk
+```
+
+##### Azizul
+```
+   - Visual Studio Code Installed.
+
 ```
 
 ##### Kamrul
