@@ -104,7 +104,7 @@ First code of C#
 </details>
 
 ### 3. **C# Basics**
-🔵 **Naimur** ✅️ **Azizul** 🔵 **Kamrul** 🔵 **Pavel**
+🔵 **Naimur** ✅️ **Azizul** ✅️ **Kamrul** 🔵 **Pavel**
 
    - [ ] Variables and Data Types
    - [ ] Operators
@@ -131,6 +131,7 @@ First code of C#
 
 ##### Kamrul
 ```
+   Done
 ```
 
 ##### Pavel
