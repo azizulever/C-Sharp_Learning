@@ -104,13 +104,38 @@ First code of C#
 </details>
 
 ### 3. **C# Basics**
-🔵 **Naimur** 🔵 **Azizul** 🔵 **Kamrul** 🔵 **Pavel**
+🔵 **Naimur** ✅️ **Azizul** 🔵 **Kamrul** 🔵 **Pavel**
 
    - [ ] Variables and Data Types
    - [ ] Operators
    - [ ] Control Flow (if statements, loops)
    - [ ] Functions and Methods
    - [ ] Arrays and Collections
+
+<details>
+
+<summary>STUDY REPORT</summary>
+
+##### Azizul
+```
+   - Variables and Data Types "Done".
+   - Operators "Done".
+   - Control Flow (if statements, loops) "Done".
+   - Functions and Methods "Done".
+   - Arrays and Collections "Done".
+```
+
+##### Naimur
+```
+```
+
+##### Kamrul
+```
+```
+
+##### Pavel
+```
+```
 
 </details>
 
