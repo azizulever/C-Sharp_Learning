@@ -151,14 +151,25 @@ First code of C#
    - [ ] Abstraction
 
 ### 5. **Exception Handling**
+
+🔵 **Naimur** 🔵 **Azizul** 🔵 **Kamrul** 🔵 **Pavel**
+
    - [ ] Try, Catch, and Finally blocks
    - [ ] Custom Exception Classes
 
+</details>
+
 ### 6. **File I/O**
+
+🔵 **Naimur** 🔵 **Azizul** 🔵 **Kamrul** 🔵 **Pavel**
+
    - [ ] Reading and Writing to Files
    - [ ] Working with Streams
 
 ### 7. **C# Advanced Concepts**
+
+🔵 **Naimur** 🔵 **Azizul** 🔵 **Kamrul** 🔵 **Pavel**
+
    - [ ] Delegates and Events
    - [ ] Generics
    - [ ] Lambda Expressions
@@ -166,22 +177,34 @@ First code of C#
    - [ ] Asynchronous Programming (async/await)
 
 ### 8. **C# Best Practices**
+
+🔵 **Naimur** 🔵 **Azizul** 🔵 **Kamrul** 🔵 **Pavel**
+
    - [ ] Code organization and style
    - [ ] Error handling and debugging
    - [ ] Unit Testing
 
 ### 9. **C# Frameworks and Libraries**
+
+🔵 **Naimur** 🔵 **Azizul** 🔵 **Kamrul** 🔵 **Pavel**
+
    - [ ] ASP.NET Core (Web Development)
    - [ ] WinForms or WPF (Desktop Applications)
    - [ ] Xamarin (Cross-Platform Mobile Apps)
    - [ ] Entity Framework (Database Access)
 
 ### 10. **C# Resources and Further Learning**
+
+🔵 **Naimur** 🔵 **Azizul** 🔵 **Kamrul** 🔵 **Pavel**
+
    - [ ] Online C# communities and forums
    - [ ] C# books and documentation
    - [ ] Advanced C# courses and tutorials
 
 ### 11. **C# Projects**
+
+🔵 **Naimur** 🔵 **Azizul** 🔵 **Kamrul** 🔵 **Pavel**
+
    - [ ] Developing a simple C# application
    - [ ] Building a small project
    - [ ] Contributing to an open-source project
